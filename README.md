@@ -8,7 +8,7 @@ My name is Gracie Maulik, and I am a senior Economics-Mathematics major with a m
 
 ### Resume
 
-[Gracie Maulik Resume](file:///Users/graciemaulik/Downloads/GracieMaulikResumeLateOct2024.html)
+[Gracie Maulik Resume](https://file:///Users/graciemaulik/Downloads/GracieMaulikResumeLateOct2024.html)
 
 ### LinkedIn
 
