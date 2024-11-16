@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-My name is Gracie Maulik, and I am a senior Economics-Mathematics major and Data Science minor at Whitman College. I am a data-driven individual who is passionate about problem-solving and helping others. I am interested in exploring many career paths, with interests in sports, finance, and data science. Below are links to my resume and Linkedin profile, as well as some projects I have completed in my time at Whitman.
+My name is Gracie Maulik, and I am a senior Economics-Mathematics major with a minor in Data science at Whitman College. I am a data-driven individual who is passionate about problem-solving and helping others. I am interested in exploring many career paths, with interests in sports, finance, and data science. Below are links to my resume and LinkedIn profile, as well as some projects I have completed while at Whitman.
 
 ### Resume
 
