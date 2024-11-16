@@ -12,7 +12,7 @@ My name is Gracie Maulik, and I am a senior Economics-Mathematics major with a m
 
 ### LinkedIn
 
-[Gracie Maulik Linkedin](www.linkedin.com/in/gracie-maulik-195049262)
+[Gracie Maulik Linkedin](https://www.linkedin.com/in/gracie-maulik-195049262)
 
 # Project Portfolio
 
