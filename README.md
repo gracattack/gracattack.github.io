@@ -16,7 +16,7 @@ My name is Gracie Maulik, and I am a senior Economics-Mathematics major with a m
 
 Below is an embedded plot of where Schueller was on May 31st, 2024.
 
-{% include relative may_31.html %}
+{% include_relative may_31.html %}
 
 ### Data Sources and Project Ideas
 
