@@ -30,7 +30,7 @@ Below is an embedded plot of where Schueller was on May 31st, 2024.
 
 > Data: [UN Environmental Data (under the Environment Tab)](https://data.un.org)
 
-> The environmental datasets look at $CO_2$ emissions, threatened species, and water supply/sanitation coverage per country. Using this data, it would be cool to explore each country's numbers and compare them to economic indicators over time, such as GDP per capita. This potentially would show the overall health of the country and it would be interesting to see if the environmental and economic parts of the country are related. 
+> The environmental datasets look at CO2 emissions, threatened species, and water supply/sanitation coverage per country. Using this data, it would be cool to explore each country's numbers and compare them to economic indicators over time, such as GDP per capita. This potentially would show the overall health of the country and it would be interesting to see if the environmental and economic parts of the country are related. 
 
 #### 3.) Census Data
 
@@ -42,7 +42,7 @@ Below is an embedded plot of where Schueller was on May 31st, 2024.
 
 > Data: [World Bank Economic Indicators](https://databank.worldbank.org/)
 
-> The database above has loads of data on all countries across the world on everything from GDP per capita to mortality rates. It is an overwhelmingly large dataset, but one that could be used to compare to other datasets addressed above. US GDP per capita over the years can be tied in with census data or human poverty levels per country can be compared to the $CO_2$ emissions that a country produces. 
+> The database above has loads of data on all countries across the world on everything from GDP per capita to mortality rates. It is an overwhelmingly large dataset, but one that could be used to compare to other datasets addressed above. US GDP per capita over the years can be tied in with census data or human poverty levels per country can be compared to the CO2 emissions that a country produces. 
 
 #### 5.) Presidential Data and the Bureau of Labor Statistics
 
