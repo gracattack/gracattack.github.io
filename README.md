@@ -48,8 +48,10 @@ Below is an embedded plot of where Schueller was on May 31st, 2024.
 
 > Data: [Bureau of Labor Statistics](https://data.bls.gov/dataQuery/search)
 
-> This dataset contains US data on the unemployment rate and job growth. It would be fascinating to take the years of each presidential administration and compare each presidencies unemployment rate and job growth. It is always an issue that Republicans cite as their main factor for voting, it would be interesting to see if Republican presidents have done more for the economy than Democrats or vice verse.
+> This dataset contains US data on the unemployment rate and job growth. It would be fascinating to take the years of each presidential administration and compare each presidencies unemployment rate and job growth. It is always an issue that Republicans cite as their main factor for voting, it would be interesting to see if Republican presidents have done more for the economy than Democrats or vice versa.
 
 ### Above and Beyond
 
-Below are ideas for visualizations that I would like to 
+To further practice embedding plots onto my page, I have included Scheuller's location data for May 30th, 2024. 
+
+{% include_relative may_30.html %}
