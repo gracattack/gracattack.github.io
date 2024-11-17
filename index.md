@@ -52,4 +52,6 @@ Below is an embedded plot of where Schueller was on May 31st, 2024.
 
 ### Above and Beyond
 
-Below are ideas for visualizations that I would like to  
+To further practice embedding plots onto my page, I have included Scheuller's location data for May 30th, 2024. 
+
+{% include_relative may_30.html %}
