@@ -16,8 +16,7 @@ My name is Gracie Maulik, and I am a senior Economics-Mathematics major with a m
 
 [WNBA Playing Time Distribution](https://gracattack.github.io/FinalProject/)
 
-
-
+For our final project, Carly and I wanted to analyze the playing time data for WNBA players and teams in the past 5 years. Our goal is to determine if there are any successful patterns of average playing time distributions in high-ranked teams, both in the regular season and the playoffs.
 
 ### Where's Schueller?
 
